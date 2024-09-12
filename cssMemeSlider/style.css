@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 40%;
+}
+
+img {
+  width: 200px;
+}
