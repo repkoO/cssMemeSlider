@@ -20,7 +20,7 @@ body {
 }
 
 .slider__line {
-  width: 35em;
+  width: 30em;
   overflow: hidden;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 img {
-  width: 35em;
+  width: 30em;
 }
 
 input {
